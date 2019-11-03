@@ -14,10 +14,21 @@
 
   : Date format
   
-  
 <https://www.php.net/manual/en/function.strtotime.php>
 
+<https://stackoverflow.com/questions/15391942/php-time-minus-time-to-minutes>
+
   : Str to Time (use it for time calculation)
+  
+<https://www.w3schools.com/php/phptryit.asp?filename=tryphp_func_strtotime>
+
+  : Str to Time time format reference -> not only D-M-Y, T-M-D also available.
+  
+ 
+<https://www.geeksforgeeks.org/php-intdiv-function/>
+
+  : integer division
+  
   
 <https://stackoverflow.com/questions/8285557/use-query-twice-mysql-fetch-array>
   
