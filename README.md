@@ -18,3 +18,7 @@
 <https://www.php.net/manual/en/function.strtotime.php>
 
   : Str to Time (use it for time calculation)
+  
+<https://stackoverflow.com/questions/8285557/use-query-twice-mysql-fetch-array>
+  
+  : use fetch_array() more than twice.
