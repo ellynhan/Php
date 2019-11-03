@@ -2,6 +2,7 @@
 <html>
 <body>
 <?php
+$conn = mysqli_connect("hostname", "username", "password", "databasename");
 $result = $conn->query("SELECT NAME, STUDENTID FROM Student");
 
 if ($result->num_rows > 0) {
