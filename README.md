@@ -6,3 +6,15 @@
   
 
   
+<https://www.php.net/manual/en/timezones.php>
+
+  : Time zone setting
+  
+<https://www.w3schools.com/php/func_date_date.asp>
+
+  : Date format
+  
+  
+<https://www.php.net/manual/en/function.strtotime.php>
+
+  : Str to Time (use it for time calculation)
