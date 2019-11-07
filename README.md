@@ -33,3 +33,6 @@
 <https://stackoverflow.com/questions/8285557/use-query-twice-mysql-fetch-array>
   
   : use fetch_array() more than twice.
+
+
+"SELECT s.NAME FROM Subject as s, Participant as p Where p.STUDENTID=".$Sid." AND s.ID=p.SUBJECTID"
