@@ -36,3 +36,9 @@
 
 
 "SELECT s.NAME FROM Subject as s, Participant as p Where p.STUDENTID=".$Sid." AND s.ID=p.SUBJECTID"
+
+
+### EDITOR
+<https://codemirror.net/>
+
+<https://ace.c9.io/#nav=about>
