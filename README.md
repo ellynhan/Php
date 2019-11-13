@@ -42,3 +42,7 @@
 <https://codemirror.net/>
 
 <https://ace.c9.io/#nav=about>
+
+## echo
+
+에코를 따옴표로 시작했는데 따옴표를 그 안에 또 쓰고 싶으면  \ 를 쓰면된다.
